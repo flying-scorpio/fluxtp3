@@ -9,6 +9,6 @@ spec:
   path: ./clusters/tp3/hellogo
   prune: true
   sourceRef:
-    kind: GitRepository
-    name: fluxtp3
+    kind: ""
+    name: ""
   targetNamespace: default
